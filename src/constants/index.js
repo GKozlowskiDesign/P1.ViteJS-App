@@ -44,6 +44,33 @@ export const features = [
   },
 ];
 
+
+
+export const analytics = [
+  {
+    id: "feature-1",
+    icon: star,
+    title: "Business",
+    content:
+      " Explore in-depth analytics and metrics to make informed investment decisions. MetaTracker offers a wide range of indicators, charts, and graphs that enable you to assess the performance, volatility, and growth potential of various cryptocurrencies.",
+  },
+  {
+    id: "feature-2",
+    icon: shield,
+    title: "Storage",
+    content:
+    "Stay up to date with the latest prices of cryptocurrencies across multiple exchanges. MetaTracker ensures real-time data updates, ensuring that you never miss out on crucial market movements.",
+  },
+  {
+    id: "feature-3",
+    icon: send,
+    title: "Compute",
+    content:
+      "Visualize and analyze cryptocurrency price movements with advanced charting features. MetaTracker empowers you with customizable charts, technical analysis tools, and historical data, allowing you to spot trends, patterns, and potential entry or exit points",
+
+  },
+];
+
 export const feedback = [
   {
     id: "feedback-1",
