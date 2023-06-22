@@ -46,7 +46,7 @@ export const features = [
 
 
 
-export const Analytics = [
+export const analytics = [
   {
     id: "analytics-1",
     icon: star,
