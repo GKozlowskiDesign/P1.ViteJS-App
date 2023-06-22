@@ -3,19 +3,19 @@ import { people01, people02, people03, instagram, twitter, airbnb, binance, coin
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Get Started",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "analytics",
+    title: "Analytics",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "stats",
+    title: "Statistics",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "footer",
+    title: "Learn More",
   },
 ];
 
