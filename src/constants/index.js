@@ -101,18 +101,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Business Services",
-    value: "42+",
+    title: "Cryptocurrencies",
+    value: "99+",
   },
   {
     id: "stats-2",
-    title: "Storage Services",
-    value: "10+",
+    title: "Tracking Tools",
+    value: "5+",
   },
   {
     id: "stats-3",
-    title: "Compute Services",
-    value: "27+",
+    title: "Education Tools",
+    value: "3+",
   },
 ];
 
