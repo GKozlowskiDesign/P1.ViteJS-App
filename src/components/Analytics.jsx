@@ -1,4 +1,4 @@
-import { analytics } from "../constants";
+import { Analytics } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
