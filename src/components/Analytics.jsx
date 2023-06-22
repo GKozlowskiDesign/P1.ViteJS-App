@@ -1,5 +1,5 @@
 import { analytics } from "../constants";
-import styles, { layout } from "../style";
+
 import Button from "./Button";
 
 const AnalyticsCard = ({ icon, title, content, index }) => (
