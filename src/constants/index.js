@@ -3,7 +3,7 @@ import { people01, people02, people03, instagram, twitter, airbnb, binance, coin
 export const navLinks = [
   {
     id: "home",
-    title: "Get Started",
+    title: "Home",
   },
   {
     id: "analytics",
@@ -11,7 +11,7 @@ export const navLinks = [
   },
   {
     id: "stats",
-    title: "Statistics",
+    title: "Services",
   },
   {
     id: "footer",
