@@ -36,7 +36,7 @@ const Analytics = () =>  (
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
-      {analytics.map((feature, index) => (
+      {analytics.map((analytic, index) => (
         <AnalyticsCard key={analytic.id} {...analytic} index={index} />
       ))}
     </div>
