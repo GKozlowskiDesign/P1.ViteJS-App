@@ -2,6 +2,7 @@ import Navbar from "./Navbar";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
+import Analytics from "./Analytics";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
@@ -14,6 +15,7 @@ export {
   Billing,
   CardDeal,
   Business,
+  Analytics,
   Clients,
   CTA,
   Stats,
