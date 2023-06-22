@@ -122,23 +122,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://www.hoobank.com/content/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "Create",
-        link: "https://www.hoobank.com/create/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://metaverseot.xyz/",
       },
     ],
   },
@@ -147,23 +147,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://mirror.xyz/0x38034A81D48cBf8D4c4C757856d14492C848015b",
       },
       {
         name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        link: "https://medium.com/@metaverseofthings",
       },
     ],
   },
@@ -172,11 +172,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        link: "https://metaverseot.xyz/",
       },
       {
         name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        link: "https://metaverseot.xyz/",
       },
     ],
   },
