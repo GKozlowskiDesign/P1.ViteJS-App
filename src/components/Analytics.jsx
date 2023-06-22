@@ -18,7 +18,7 @@ const AnalyticsCard = ({ icon, title, content, index }) => (
   </div>
 );
 
-const Business = () =>  (
+const Analytics = () =>  (
   <section id="analytics" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
