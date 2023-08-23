@@ -1,46 +1,155 @@
 <body>
-  <h1>MetaTracker Website</h1>
 
-  <p>The MetaTracker Website is the official website for the MetaTracker cryptocurrency tracking application. It serves as a platform to showcase the features and capabilities of the MetaTracker application and provides valuable information to users and potential users.</p>
+<h1  align="center">Metaverse Of Things</h1>
 
-  <h2>Features</h2>
+<p align="center">
+<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/dd4d3566-3b9d-4beb-8442-2027ed436268" height="auto" width="300">
+</p>
+
+<h1  align="left">Product Website</h1>
+<p align="left">The inspiration for this project came from my learning goals and wanting to create a website for a community project. The FinTech Website is the official website for the MetaTracker cryptocurrency analytical tracking application. It serves as a platform to showcase the product features and capabilities of the MetaTracker application, providing valuable information to users, potential users, and potential project contributors.</p>
+
+  <h1 align="left">Featured Technologies</h1>
+  
   <ul>
-    <li>Introduction to MetaTracker: The website provides an overview of the MetaTracker application, highlighting its key features and benefits.</li>
-    <li>Detailed Documentation: Users can access comprehensive documentation on how to install and use the MetaTracker application, ensuring a smooth onboarding experience.</li>
-    <li>User Testimonials: The website showcases testimonials from satisfied users, providing social proof and building trust in the MetaTracker application.</li>
-    <li>Frequently Asked Questions (FAQ): A dedicated FAQ section addresses common queries and concerns, assisting users in understanding the application better.</li>
-    <li>Contact and Support: Users can easily get in touch with the MetaTracker team through the provided contact information for any inquiries or support requests.</li>
+    <li>
+    <b>React:</b> 
+    React is a JavaScript library for creating user interfaces. 
+    The react package contains only the functionality necessary to define React components. It is typically used together with a React renderer like react-dom for the web or react-native for   
+    the native environments.
+    </li>
+    <br>
+    <li>
+    <b>React-Dom:</b>
+    This package serves as the entry point to the DOM and server renderers for React. 
+    It is intended to be paired with the generic React package, which is shipped as react to npm.
+    </li>
+    <br>
+    <li>
+    <b>ViteJS:</b> Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. It consists of two major parts, a dev server that provides 
+    rich feature enhancements over native ES modules, for example extremely fast Hot Module Replacement (HMR) and a build command that bundles your code with Rollup, pre-configured to output highly optimized static assets for production.
+    </li>
+    <br>
+    <li>
+    <b>AutoPrefixer:</b>
+    PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba.
+    </li>
+    <br>
+    <b>Postcss:</b>
+    PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
+    </li>
+    <br>
+    <li>
+    <b>Tailwindcss:</b>
+    A utility-first CSS framework for rapidly building custom user interfaces.
+    </li>
+    <br>
+    <li>
+    <b>Figma:</b>
+    Figma is a collaborative web application for interface design, with additional offline features enabled by desktop applications for macOS and Windows.
+    </li>
+    <br>
+    <li>
+    <b>VSCode:</b>
+    Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS. 
+    Features include support for debugging, syntax highlighting, intelligent code completion, snippets,     
+    code refactoring, and embedded Git. 
+    </li>
+    <br>
+    <li>
+    <b>Netlify:</b>
+    Netlify is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites.
+    </li>
+    
   </ul>
 
-  <h2>Getting Started</h2>
-  <ol>
-    <li>Clone the repository:<br><code>git clone https://github.com/gkozlowskidesign/MetaTracker_Website.git</code></li>
-    <li>Navigate to the project directory:<br><code>cd MetaTracker_Website</code></li>
-    <li>Open the <code>index.html</code> file in your web browser to access the MetaTracker Website.</li>
-  </ol>
-
-## Technologies
+<h1>Featured Products</h1>
 <ul>
-  <li><p><b>JavaScript: </b> The primary programming language for implementing dynamic and interactive elements of the website.</p></li>
-<li><p><b>React:</b>  A popular JavaScript library for building user interfaces, providing a component-based approach for efficient development.</p></li>
-<li><p><b>Tailwind CSS:</b>  A utility-first CSS framework that streamlines the styling process, allowing for rapid prototyping and responsive design.</p></li>
-<li><p><b>Netlify:</b>  A cloud-based platform for hosting and deploying web applications, providing seamless deployment and continuous integration capabilities.</p></li>
-<li><p><b>Smooth Scroll:</b>  Implementing smooth scrolling functionality to enhance user experience when navigating through the website.</p></li>
-<li><p><b>Social Icons:</b>  Incorporating social icons to provide links to social media profiles, allowing visitors to connect with the website owner.</p></li>
-<li><p><b>Custom Fonts:</b>  Utilizing custom fonts to enhance the visual appeal and typography of the website.</p></li>
-<li><p><b>Gradient Background:</b>  Implementing gradient backgrounds to add visual interest and create a more dynamic design.</p></li>
-<li><p><b>Responsive Design:</b>  Ensuring the website is responsive and accessible across various devices and screen sizes, providing an optimal user experience.</p></li>
+  <li>Information Website</li>
+  <p><b>Status:</b> Ongoing</p>
+  
+  <li>Analytical Cryptocurrency Tracker</li>
+  <p><b>Status:</b> Ongoing</p>
+
+  <li>Community Forum and DAO</li>
+  <p><b>Status:</b> Barley Started</p>
+
+  <li>Multi-Chain Wallet</li>
+  <p><b>Status:</b> Not Yet Started</p>
+
 </ul>
 
-## Full-Page Screenshot 
-![screencapture-metaversetools-netlify-app-2023-07-08-03_14_10](https://github.com/gkozlowskidesign/MetaTracker_Website/assets/82541715/7a8d9198-c99c-42c0-9871-c14dd0f0b45d)
+<h1>Illustrations</h1>
 
-  <h2>Contributing</h2>
-  <p>Contributions to the MetaTracker Website are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
+<h3>Logo Design</h3>
+<p align="left">
+<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/d1e2e8c3-c44a-4c89-a08c-620eaf7a6bbd" width="800">
+</p>
 
-  <h2>License</h2>
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+<br>
 
-  <h2>Acknowledgments</h2>
-  <p>The MetaTracker Website was developed by Gary Kozlowski.</p>
+<h3>UI Design</h3>
+<p align="left">
+<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/141cc4b1-298f-4c65-8f0b-c766a454731a">
+</p>
+
+
+<br>
+
+<h1>Featured Components</h1>
+<ul>
+  <h3><b>Navbar</b></h3>
+  <p><b>Description:</b>The navigation section enables intuitive movement within a website, 
+  offering users easy access to various pages or areas, enhancing user experience, and facilitating content discovery.</p>
+  
+  <h3><b>Hero</b></h3>
+  <p><b>Description:</b>The hero section captivates users with prominent visual and concise messaging, 
+  introducing the core essence of a website or product, engaging visitors, and encouraging further   
+  exploration.</p>
+  
+  <h3><b>Features</b></h3>
+  <p><b>Description:</b>The features banner section highlights key functionalities or offerings of a product or service, 
+  showcasing benefits succinctly. It informs users and encourages them to explore 
+  further.</p>
+  
+  <h3><b>Description</b></h3>
+  <p><b>Description:</b>The description/about section provides essential information about the company, product, 
+  or service, establishing credibility and building a connection with users by sharing its 
+  purpose, values, and background.</p>
+  
+  <h3><b>Demo</b></h3>
+  <p><b>Description:</b>The demo section displays product functionality through interactive demonstrations, 
+  allowing users to experience features firsthand. It showcases usability, encouraging engagement and conveying value effectively.</p>
+  
+  <h3><b>Demo</b></h3>
+  <p><b>Description:</b>The footer section offers important links, contact details, and supplementary information at the bottom of a webpage. It aids navigation, provides context, and enhances user 
+  accessibility and engagement.</p>
+
+<h3>Components Illustration</h3>
+<p align="left">
+<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/01851307-d1d0-44cc-877e-2422d25ece3e" width="800">
+</p>
+
+  
+</ul>
+
+<h1>Workflow</h1>
+<ul>
+  <h3>Inspiration</h3>
+  <h3>Notepad</h3>
+  <h3>Figma Design</h3>
+  <h3>Project Setup</h3>
+  <h3>Structure & Layout</h3>
+  <h3>GitHub Repository</h3>
+  <h3>Deployment</h3>
+</ul>
+
+<h1>Contributing</h1>
+<p>Contributions to the Repository are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
+
+<h1>License</h1>
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+<h1>Acknowledgments</h1>
+<p>This technology was developed by Gary Kozlowski.</p>
 </body>
