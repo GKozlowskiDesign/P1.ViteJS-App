@@ -1,15 +1,15 @@
 <body>
 
-<h1  align="center">Metaverse Of Things</h1>
+<h1  align="center">Metaverse Of Things (MVoT)</h1>
 
 <p align="center">
 <img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/dd4d3566-3b9d-4beb-8442-2027ed436268" height="auto" width="300">
 </p>
 
-<h1  align="left">Product Website</h1>
+<h1  align="left">MVoT Website</h1>
 <p align="left">The inspiration for this project came from my learning goals and wanting to create a website for a community project. The FinTech Website is the official website for the MetaTracker cryptocurrency analytical tracking application. It serves as a platform to showcase the product features and capabilities of the MetaTracker application, providing valuable information to users, potential users, and potential project contributors.</p>
 
-  <h1 align="left">Featured Technologies</h1>
+  <h1 align="left">Technologies</h1>
   
   <ul>
     <li>
@@ -35,6 +35,7 @@
     PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba.
     </li>
     <br>
+    <li>
     <b>Postcss:</b>
     PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more.
     </li>
@@ -63,23 +64,31 @@
     
   </ul>
 
-<h1>Featured Products</h1>
+<h1>Products</h1>
 <ul>
-  <li>Information Website</li>
-  <p><b>Status:</b> Ongoing</p>
-  
-  <li>Analytical Cryptocurrency Tracker</li>
-  <p><b>Status:</b> Ongoing</p>
-
-  <li>Community Forum and DAO</li>
-  <p><b>Status:</b> Barley Started</p>
-
-  <li>Multi-Chain Wallet</li>
-  <p><b>Status:</b> Not Yet Started</p>
-
+  <h3>Product 1</h3>
+  <li><p><b>Product:</b> Information Product Website</p></li>
+  <li><p><b>Description:</b> Coming Soon...</p></li>
+  <li><p><b>Status:</b> Ongoing</p></li>
+  <hr>
+ <h3>Product 2</h3>
+  <li><p><b>Product:</b> Portfolio Price Tracker Application</p></li>
+  <li><p><b>Description:</b> Coming Soon...</p></li>
+  <li><p><b>Status:</b> Ongoing</p></li>
+<hr>
+<h3>Product 3</h3>
+  <li><p><b>Product:</b> Multi-Chain Wallet</p></li>
+  <li><p><b>Description:</b> Coming Soon...</p></li>
+  <li><p><b>Status:</b> Ongoing</p></li>
+<hr>
+<h3>Product 4</h3>
+  <li><p><b>Product:</b> DAO Social Platform</p></li>
+  <li><p><b>Description:</b> Coming Soon...</p></li>
+  <li><p><b>Status:</b> Ongoing</p></li>
+<hr>
 </ul>
 
-<h1>Illustrations</h1>
+<h1>Branding</h1>
 
 <h3>Logo Design</h3>
 <p align="left">
@@ -88,15 +97,22 @@
 
 <br>
 
+<h1>User-Interface (UI)</h1>
+
 <h3>UI Design</h3>
 <p align="left">
 <img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/141cc4b1-298f-4c65-8f0b-c766a454731a">
 </p>
 
+<h3>UI Deployed</h3>
+<p align="left">
+<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/01851307-d1d0-44cc-877e-2422d25ece3e" width="800">
+</p>
+
 
 <br>
 
-<h1>Featured Components</h1>
+<h3>UI Components</h3>
 <ul>
   <h3><b>Navbar</b></h3>
   <p><b>Description:</b>The navigation section enables intuitive movement within a website, 
@@ -121,16 +137,9 @@
   <p><b>Description:</b>The demo section displays product functionality through interactive demonstrations, 
   allowing users to experience features firsthand. It showcases usability, encouraging engagement and conveying value effectively.</p>
   
-  <h3><b>Demo</b></h3>
+  <h3><b>Footer</b></h3>
   <p><b>Description:</b>The footer section offers important links, contact details, and supplementary information at the bottom of a webpage. It aids navigation, provides context, and enhances user 
   accessibility and engagement.</p>
-
-<h3>Components Illustration</h3>
-<p align="left">
-<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/01851307-d1d0-44cc-877e-2422d25ece3e" width="800">
-</p>
-
-  
 </ul>
 
 <h1>Workflow</h1>
