@@ -66,53 +66,8 @@
     
   </ul>
 
-<h1>Products</h1>
-<ul>
-  <h3>Product 1</h3>
-  <li><p><b>Product:</b> Information Product Website</p></li>
-  <li><p><b>Description:</b> Coming Soon...</p></li>
-  <li><p><b>Status:</b> Ongoing</p></li>
-  <hr>
- <h3>Product 2</h3>
-  <li><p><b>Product:</b> Portfolio Price Tracker Application</p></li>
-  <li><p><b>Description:</b> Coming Soon...</p></li>
-  <li><p><b>Status:</b> Ongoing</p></li>
-<hr>
-<h3>Product 3</h3>
-  <li><p><b>Product:</b> Multi-Chain Wallet</p></li>
-  <li><p><b>Description:</b> Coming Soon...</p></li>
-  <li><p><b>Status:</b> Ongoing</p></li>
-<hr>
-<h3>Product 4</h3>
-  <li><p><b>Product:</b> DAO Social Platform</p></li>
-  <li><p><b>Description:</b> Coming Soon...</p></li>
-  <li><p><b>Status:</b> Ongoing</p></li>
-<hr>
-</ul>
-
-<h1>Branding</h1>
-
-<h3>Logo Design</h3>
-<p align="left">
-<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/d1e2e8c3-c44a-4c89-a08c-620eaf7a6bbd" width="800">
-</p>
-
-<br>
 
 <h1>User-Interface (UI)</h1>
-
-<h3>UI Design</h3>
-<p align="left">
-<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/141cc4b1-298f-4c65-8f0b-c766a454731a">
-</p>
-
-<h3>UI Deployed</h3>
-<p align="left">
-<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/01851307-d1d0-44cc-877e-2422d25ece3e" width="800">
-</p>
-
-
-<br>
 
 <h3>UI Components</h3>
 <ul>
@@ -144,16 +99,21 @@
   accessibility and engagement.</p>
 </ul>
 
-<h1>Workflow</h1>
-<ul>
-  <h3>Inspiration</h3>
-  <h3>Notepad</h3>
-  <h3>Figma Design</h3>
-  <h3>Project Setup</h3>
-  <h3>Structure & Layout</h3>
-  <h3>GitHub Repository</h3>
-  <h3>Deployment</h3>
-</ul>
+<h3 align="center">UI Design</h3>
+<p align="center">
+<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/141cc4b1-298f-4c65-8f0b-c766a454731a" width="600">
+</p>
+
+
+<h3  align="center">UI Deployed</h3>
+<p align="center">
+<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/01851307-d1d0-44cc-877e-2422d25ece3e" width="600">
+</p>
+
+
+<br>
+
+
 
 <h1>Contributing</h1>
 <p>Contributions to the Repository are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</p>
