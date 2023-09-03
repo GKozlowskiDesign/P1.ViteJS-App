@@ -24,7 +24,7 @@ const About = () =>  (
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Firstly, it offers a cutting-edge cryptocurrency portfolio tracker, enabling users to efficiently manage their 
-        digital assets within the decentralized landscape. Secondly, MoT pioneers a blockchain-based storage system, akin to a database, 
+        digital assets within the decentralized landscape. Secondly, MVoT pioneers a blockchain-based storage system, akin to a database, 
         leveraging IPFS technology for secure and decentralized data storage. Lastly, MoT fosters a vibrant social platform where 
         DAO members can seamlessly connect, exchange knowledge, and collaborate on innovative ideas, 
         fostering a dynamic and inclusive web3 community.
