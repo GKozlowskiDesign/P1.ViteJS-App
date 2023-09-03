@@ -52,7 +52,7 @@ export const analytics = [
     icon: star,
     title: "Portfolio Tools",
     content:
-      "Developing a cutting-edge cryptocurrency portfolio tracker, enabling users to efficiently manage their digital assets within the decentralized landscape and learn about the space.",
+      "Developing a cutting-edge cryptocurrency portfolio tracker, payment system enabling users to efficiently manage, send and receive their digital assets within the decentralized landscape.",
   },
   {
     id: "analytics-2",
