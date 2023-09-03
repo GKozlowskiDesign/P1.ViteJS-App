@@ -1,7 +1,5 @@
 import { analytics } from "../constants";
 import styles, { layout } from "../style";
-import Button from "./Button";
-
 const AnalyticsCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== analytics.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
     <div className={`w-[64px] h-[64px] rounded-full ${styles.flexCenter} bg-dimBlue`}>
@@ -18,23 +16,20 @@ const AnalyticsCard = ({ icon, title, content, index }) => (
   </div>
 );
 
-const Analytics = () =>  (
+const About = () =>  (
   <section id="analytics" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        MVoT<br className="sm:block hidden" /> Tracker
+        MVoT<br className="sm:block hidden" /> Projects
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        MetaTracker is a state-of-the-art cryptocurrency analytical tracker that empowers users with comprehensive insights 
-        and real-time tracking capabilities. Dive deep into the world of cryptocurrencies, explore market trends, and gain a profound understanding 
-        of digital assets. With advanced charting tools, real-time price tracking, and analytical insights, MetaTracker ensures you never miss out on crucial market movements. 
-        Effortlessly manage your cryptocurrency portfolio, stay informed with the latest news and updates, and create personalized watchlists with custom 
-        alerts. Make data-driven decisions, navigate the dynamic crypto market, and unleash the power of cryptocurrency insights with MetaTracker.
+      Firstly, it offers a cutting-edge cryptocurrency portfolio tracker, enabling users to efficiently manage their 
+        digital assets within the decentralized landscape. Secondly, MoT pioneers a blockchain-based storage system, akin to a database, 
+        leveraging IPFS technology for secure and decentralized data storage. Lastly, MoT fosters a vibrant social platform where 
+        DAO members can seamlessly connect, exchange knowledge, and collaborate on innovative ideas, 
+        fostering a dynamic and inclusive web3 community.
       </p>
-
-      <Button styles={`mt-10`} />
     </div>
-
     <div className={`${layout.sectionImg} flex-col`}>
       {analytics.map((analytic, index) => (
         <AnalyticsCard key={analytic.id} {...analytic} index={index} />
@@ -42,7 +37,6 @@ const Analytics = () =>  (
     </div>
   </section>
 );
-
-export default Analytics;
+export default About;
 
 
