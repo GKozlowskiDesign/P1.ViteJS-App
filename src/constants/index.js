@@ -50,23 +50,23 @@ export const analytics = [
   {
     id: "analytics-1",
     icon: star,
-    title: "Analytical Tools",
+    title: "Portfolio Tools",
     content:
-      " Explore in-depth analytics and metrics to make informed investment decisions. MetaTracker offers a wide range of indicators, charts, and graphs that enable you to assess the performance, volatility, and growth potential of various cryptocurrencies.",
+      "Developing a cutting-edge cryptocurrency portfolio tracker, enabling users to efficiently manage their digital assets within the decentralized landscape and learn about the space.",
   },
   {
     id: "analytics-2",
     icon: shield,
-    title: "Real-Time",
+    title: "Data Tools",
     content:
-    "Stay up to date with the latest prices of cryptocurrencies across multiple exchanges. MetaTracker ensures real-time data updates, ensuring that you never miss out on crucial market movements.",
+    "Managed blockchain-based storage system, akin to a database, leveraging IPFS combined with cloud and serverless technology for secure and decentralized data storage.",
   },
   {
     id: "analytics-3",
     icon: send,
-    title: "Visualize",
+    title: "Social Tools",
     content:
-      "Visualize and analyze cryptocurrency price movements with advanced charting features. MetaTracker empowers you with customizable charts, technical analysis tools, and historical data, allowing you to spot trends, patterns, and potential entry or exit points",
+      "Fostering a vibrant social platform where DAO members can seamlessly connect, exchange knowledge, and collaborate on innovative ideas, fostering a dynamic and inclusive web3 community.",
 
   },
 ];
