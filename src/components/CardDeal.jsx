@@ -6,19 +6,18 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+        Discover a simpler way to oversee your digital assets <br className="sm:block hidden" /> effortlessly.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Picture the future where both businesses and individuals seamlessly merge their inventory management, 
+        banking operations, and portfolio tracking into one cohesive, game-changing solution – just like the way Web3 revolutionizes our digital landscape.
       </p>
 
       <Button styles={`mt-10`} />
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={card} alt="billing" className="w-[100%] h-[100%]" />
+      <img src={card} alt="billing" className="w-1/2" />
     </div>
   </section>
 );
