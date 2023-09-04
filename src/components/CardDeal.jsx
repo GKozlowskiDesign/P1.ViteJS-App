@@ -1,6 +1,5 @@
 import { card } from "../assets";
 import styles, { layout } from "../style";
-import Button from "./Button";
 
 const CardDeal = () => (
   <section className={layout.section}>
@@ -12,8 +11,6 @@ const CardDeal = () => (
       Picture the future where both businesses and individuals seamlessly merge their inventory management, 
         banking operations, and portfolio tracking into one cohesive, game-changing solution – just like the way Web3 revolutionizes our digital landscape.
       </p>
-
-      <Button styles={`mt-10`} />
     </div>
 
     <div className={layout.sectionImg}>
