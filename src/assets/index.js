@@ -30,7 +30,7 @@ import netlify from "./netlify.png";
 import coingecko from "./coingecko.png";
 import solana from "./solana.png";
 import ipfs from "./ipfs.png";
-import card from "Potential.png";
+import card from "./Potential.png";
 
 
 export {
