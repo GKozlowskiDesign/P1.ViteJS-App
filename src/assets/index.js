@@ -3,7 +3,7 @@ import gitHub from "./gitHub.png";
 import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
-import card from "./card.png";
+import card from "./PortfolioTools.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.png";
