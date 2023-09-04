@@ -212,14 +212,10 @@ export const clients = [
   },
   {
     id: "client-2",
-    logo: netlify,
-  },
-  {
-    id: "client-3",
     logo: coingecko,
   },
   {
-    id: "client-4",
+    id: "client-3",
     logo: solana,
-  },
+  }
 ];
