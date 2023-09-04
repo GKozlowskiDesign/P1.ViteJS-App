@@ -26,6 +26,13 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import platform from "./Platform.png";
+import aws from "./aws.png";
+import netlify from "./netlify.png";
+import coingecko from "./coingecko.png";
+import solana from "./solana.png";
+import ipfs from "./ipfs.png";
+import potential from "Potential.png";
+
 
 export {
   platform,
@@ -47,6 +54,12 @@ export {
   close,
   google,
   apple,
+  aws,
+  netlify,
+  coingecko,
+  solana,
+  ipfs,
+  potential,
   arrowUp,
   discount,
   facebook,
