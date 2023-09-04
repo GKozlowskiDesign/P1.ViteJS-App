@@ -6,7 +6,7 @@ const CTA = () => (
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Let’s try our service now!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Dive deep into the world of digital assets and gain a profound understanding of market trends, historical performance, and future projections.
+        Dive deep into our beta dApp see the the world of digital assets and gain a profound understanding of market trends, historical performance, and future projections.
       </p>
     </div>
 
