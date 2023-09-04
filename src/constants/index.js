@@ -208,7 +208,7 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: aws,
+    logo: ipfs,
   },
   {
     id: "client-2",
@@ -221,9 +221,5 @@ export const clients = [
   {
     id: "client-4",
     logo: solana,
-  },
-   {
-    id: "client-5",
-    logo: ipfs,
   },
 ];
