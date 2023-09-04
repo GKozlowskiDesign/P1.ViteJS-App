@@ -58,7 +58,6 @@ export {
   coingecko,
   solana,
   ipfs,
-  potential,
   arrowUp,
   discount,
   facebook,
