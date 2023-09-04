@@ -1,4 +1,4 @@
-import { people01, people02, people03, instagram, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, medium, gitHub  } from "../assets";
+import { people01, people02, people03, instagram, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, medium, gitHub, aws, netlify, coingecko, solana, ipfs, potential } from "../assets";
 
 export const navLinks = [
   {
@@ -208,18 +208,22 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: aws,
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: netlify,
   },
   {
     id: "client-3",
-    logo: coinbase,
+    logo: coingecko,
   },
   {
     id: "client-4",
-    logo: dropbox,
+    logo: solana,
+  },
+   {
+    id: "client-5",
+    logo: ipfs,
   },
 ];
