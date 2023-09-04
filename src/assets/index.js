@@ -3,7 +3,6 @@ import gitHub from "./gitHub.png";
 import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
-import card from "./PortfolioTools.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.png";
@@ -31,7 +30,7 @@ import netlify from "./netlify.png";
 import coingecko from "./coingecko.png";
 import solana from "./solana.png";
 import ipfs from "./ipfs.png";
-import potential from "Potential.png";
+import card from "Potential.png";
 
 
 export {
