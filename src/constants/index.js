@@ -214,8 +214,4 @@ export const clients = [
     id: "client-2",
     logo: coingecko,
   },
-  {
-    id: "client-3",
-    logo: solana,
-  }
 ];
