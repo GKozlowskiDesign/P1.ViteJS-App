@@ -1,13 +1,5 @@
 <body>
 
-<h1  align="center">Metaverse Of Things (MVoT)</h1>
-<h4  align="center">Informational Product Website</h4>
-
-
-<p align="center">
-<img src="https://github.com/gkozlowskidesign/Project_FinTechWebsite_Vitejs/assets/82541715/dd4d3566-3b9d-4beb-8442-2027ed436268" height="auto" width="300">
-</p>
-
 <h1  align="left">General Info</h1>
 <p align="left">The inspiration for this project came from my learning goals and wanting to create a website for a community project. The FinTech Website is the official website for the MetaTracker cryptocurrency analytical tracking application. It serves as a platform to showcase the product features and capabilities of the MetaTracker application, providing valuable information to users, potential users, and potential project contributors.</p>
 
